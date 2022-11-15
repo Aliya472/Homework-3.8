@@ -1,0 +1,15 @@
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\bin\Debug\net6.0\EX003.exe
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\bin\Debug\net6.0\EX003.deps.json
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\bin\Debug\net6.0\EX003.runtimeconfig.json
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\bin\Debug\net6.0\EX003.dll
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\bin\Debug\net6.0\EX003.pdb
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\obj\Debug\net6.0\EX003.csproj.AssemblyReference.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\obj\Debug\net6.0\EX003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\obj\Debug\net6.0\EX003.AssemblyInfoInputs.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\obj\Debug\net6.0\EX003.AssemblyInfo.cs
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\obj\Debug\net6.0\EX003.csproj.CoreCompileInputs.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\obj\Debug\net6.0\EX003.dll
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\obj\Debug\net6.0\refint\EX003.dll
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\obj\Debug\net6.0\EX003.pdb
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\obj\Debug\net6.0\EX003.genruntimeconfig.cache
+C:\Users\Газинур\Desktop\GB\Lesson 3.8\EX003\obj\Debug\net6.0\ref\EX003.dll

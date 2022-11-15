@@ -30,8 +30,7 @@ void Print(int[,] ar)
         { Console.Write(ar[i,j] + "\t"); } 
     } 
 } 
- 
-// 5. находить строку с наименьшей суммой элементов 
+ // 5. находить строку с наименьшей суммой элементов 
 void FindMinSunRowArray(int[,]array) 
 { 
     string text="Строка с наименьшей суммой элементов - это строка: № "; 
@@ -40,8 +39,8 @@ void FindMinSunRowArray(int[,]array)
     { 
         for (int j = 0; j < array.GetLength(1); j++) 
         { int sum=0; 
-        sum=array[i,j]; 
-        if(sum<sumMin) sumMin=i+1; 
+        sum+=array[i,j]; 
+        if(sum<sumMin) sumMin=j+1; 
         } 
     } 
     Console.WriteLine(text+sumMin); 
@@ -53,6 +52,6 @@ int Row=Numb("количество строк");
 int Column=Numb("количество столбщов"); 
 int[,]array=CreateArray(Row,Column); 
 Console.WriteLine(); 
-FillArray(array,0,25); 
+FillArray(array,0,15); 
 Print(array); 
 FindMinSunRowArray(array);
